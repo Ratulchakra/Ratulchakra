@@ -43,7 +43,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 - 📫 How to reach me **ratulc720@gmail.com**
 
-- ⚡ Fun fact **GOD is a Cat playing with Wool ball.**
+- ⚡ Fun fact **GOD is a Cat playing with Earth ball.**
 
 
 
