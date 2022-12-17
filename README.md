@@ -33,7 +33,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 
 
-- 🔭 I’m currently working on [Human Pose Estimation & Correction]()
+- 🔭 I’m currently working on [Video Panoptic Segmentation using Morphological Operations]()
 
 - 🌱 I’m currently learning **Deep Learning , NLP , Statistics , Computer Vision**
 
